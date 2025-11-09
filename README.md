@@ -402,13 +402,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - Supabase for backend infrastructure
 - Streamlit for rapid UI development
 
-## 📞 Support
 
-For issues and questions:
-- 📧 Email: support@guardianconnect.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/guardian-connect/issues)
-- 📖 Docs: [Wiki](https://github.com/yourusername/guardian-connect/wiki)
-
----
 
 **⚠️ Disclaimer**: This system is designed as an assistance tool for emergency response. It should not replace human judgment or official emergency services. Always verify detections before taking action.
